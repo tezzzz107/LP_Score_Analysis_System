@@ -62,7 +62,7 @@ A comprehensive data analysis project to validate, explain, and pressure-test th
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/lp-score-v4-analysis.git
+git clone https://github.com/tezzzz107/LP_Score_Analysis_System.git
 cd lp-score-v4-analysis
 ```
 
