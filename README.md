@@ -269,7 +269,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/yourusername)
+- **Your Name** - *Initial work* - Tejas Singh(https://github.com/tezzzz107)
 
 ## 🙏 Acknowledgments
 
@@ -281,7 +281,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, issues, or contributions:
 - **Create an issue** on GitHub
-- **Email**: your.email@example.com
+- **Email**: tejasparesh2003@gmail.com
 - **Documentation**: Check inline code documentation and comments
 
 ---
