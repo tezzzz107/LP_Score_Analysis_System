@@ -269,7 +269,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - Tejas Singh(https://github.com/tezzzz107)
+- Tejas Singh(https://github.com/tezzzz107)
 
 ## 🙏 Acknowledgments
 
